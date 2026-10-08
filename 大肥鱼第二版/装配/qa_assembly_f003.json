@@ -1,0 +1,51 @@
+{
+ "FISH2_headband_inside_body_pct": 16.39,
+ "FISH2_bow_side_inside_body_pct": 0.0,
+ "FISH2_bow_back_inside_body_pct": 0.0,
+ "FISH2_tail_inside_outfit_pct": 0.27,
+ "FISH2_tail_inside_body_pct": 8.04,
+ "FISH2_shoe_L_foot_verts_checked": 99,
+ "FISH2_shoe_L_foot_verts_poking": 11,
+ "FISH2_shoe_L_dims": [
+  0.192,
+  0.072,
+  0.109
+ ],
+ "FISH2_shoe_R_foot_verts_checked": 99,
+ "FISH2_shoe_R_foot_verts_poking": 11,
+ "FISH2_shoe_R_dims": [
+  0.192,
+  0.072,
+  0.109
+ ],
+ "hair_verts_inside_tail": 41,
+ "prop": {
+  "total_height": 1.702,
+  "body_top_incl_ahoge": 1.702,
+  "heel_lift": 0.019,
+  "shoe_len": 0.192,
+  "headband_width": 0.299,
+  "bow_side_w": 0.051,
+  "bow_back_w": 0.08,
+  "tail_len": 0.516,
+  "tail_fluke_w": 0.291,
+  "tail_bottom": 0.554,
+  "skirt_hem": 0.489
+ },
+ "prop_ratio": {
+  "tail_len": 0.303,
+  "tail_fluke_w": 0.171,
+  "headband_width": 0.176,
+  "bow_side_w": 0.03,
+  "bow_back_w": 0.047,
+  "shoe_len": 0.113
+ },
+ "ref_ratio_est": {
+  "tail_len": 0.33,
+  "tail_fluke_w": 0.15,
+  "headband_visible_w": 0.12,
+  "bow_side_w": 0.04,
+  "bow_back_w": 0.045,
+  "shoe_len": 0.1
+ }
+}

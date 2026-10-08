@@ -1,0 +1,518 @@
+{
+  "source_directories": [
+    "大肥鱼第二版",
+    "建模SKILLS"
+  ],
+  "files": [
+    {
+      "path": "大肥鱼第二版/原图/大肥鱼女仆装 2.png",
+      "bytes": 2505265,
+      "sha256": "25e35d7d0ec3d3a48564e823a3ccfa54060189441a68ab143378c94f63ac6857"
+    },
+    {
+      "path": "大肥鱼第二版/原图/大肥鱼女仆装.png",
+      "bytes": 6110657,
+      "sha256": "afbab6e38ff817916ca63aaba1221e555d289ff3825ab0cb9f8c8bb2dcce81b4"
+    },
+    {
+      "path": "大肥鱼第二版/原图/大肥鱼第二版_GPT拆图提示词.md",
+      "bytes": 13663,
+      "sha256": "71ce047b812d6e896a18a68690811f9bee9605684cad477e7239553cff550211"
+    },
+    {
+      "path": "大肥鱼第二版/原图/大肥鱼素体-2.png",
+      "bytes": 2298179,
+      "sha256": "80e7b2e29c02468d66e63ddaeb004c31790b901b64d2ef578d180fb312c9cd7f"
+    },
+    {
+      "path": "大肥鱼第二版/原图/大肥鱼素体.png",
+      "bytes": 2150692,
+      "sha256": "51d5b79d8eee6058e15493741fd315a090c4d78295c7091ba483b93872ec28e6"
+    },
+    {
+      "path": "大肥鱼第二版/原图/大肥鱼部件.png",
+      "bytes": 1969550,
+      "sha256": "a98d4dd1c73a89bea6703a522f13108a92fe8b2585360afc4bc19fcfc9c20d46"
+    },
+    {
+      "path": "大肥鱼第二版/原图/成熟版大肥鱼.png",
+      "bytes": 2256676,
+      "sha256": "1debce40cf05ef1b6ee1ec138595036d55667224cb1306e3f4d77de0e2b0b97e"
+    },
+    {
+      "path": "大肥鱼第二版/生成参考图/大肥鱼v2_女仆装_back.png",
+      "bytes": 451186,
+      "sha256": "2392235a7f0037ee5b19522dad6e07fa626c67407024b433769429805584102d"
+    },
+    {
+      "path": "大肥鱼第二版/生成参考图/大肥鱼v2_女仆装_front.png",
+      "bytes": 479118,
+      "sha256": "14114ce83ce197af1383925ad9a643875aa896c5a5bd842ecf7a0d2bc9695c67"
+    },
+    {
+      "path": "大肥鱼第二版/生成参考图/大肥鱼v2_女仆装_left.png",
+      "bytes": 319192,
+      "sha256": "6d9ea8175cbbacd45665e52d3e12608b2bc68e5b1e2e22272849dd30cb50591e"
+    },
+    {
+      "path": "大肥鱼第二版/生成参考图/大肥鱼v2_女仆装_right.png",
+      "bytes": 317777,
+      "sha256": "4c5a9bcc329776bfaab72abc9e9c3b87e0c9cbdbb84b40c8607d5781b70bb35c"
+    },
+    {
+      "path": "大肥鱼第二版/生成参考图/大肥鱼v2_素体_back.png",
+      "bytes": 568564,
+      "sha256": "c1e7561ab7cb5d93b710d1ea88e9582f959e58b47adea72377033e9719b98dad"
+    },
+    {
+      "path": "大肥鱼第二版/生成参考图/大肥鱼v2_素体_front.png",
+      "bytes": 565650,
+      "sha256": "c6532f56af58eb302874418fdf3200772018993be468876983421d0659dfebb3"
+    },
+    {
+      "path": "大肥鱼第二版/生成参考图/大肥鱼v2_素体_left.png",
+      "bytes": 322819,
+      "sha256": "d7e4e6a46eb1642b53b3f7612d094812781f515f23286b39b43f2f48a1c5174f"
+    },
+    {
+      "path": "大肥鱼第二版/生成参考图/大肥鱼v2_素体_right.png",
+      "bytes": 303920,
+      "sha256": "5a9b0cb152806693d0a28d76b42ca76a930296bc84a14db0f1e159ec027a5b6b"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/Tripo女仆装评估_v2.jpg",
+      "bytes": 497328,
+      "sha256": "0188701e375b24e6c6088067548a00b213aa6b09da7d08fae92bfa91137f2376"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/Tripo素体评估_v2.jpg",
+      "bytes": 472066,
+      "sha256": "41753af024dac78d1e202c5a4e17358b65a396904152b8d54be9ca564f2ef405"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/Tripo部件评估_v2.jpg",
+      "bytes": 126033,
+      "sha256": "c60c23b8f5c8e1e4bbd3d65509aa04e638e814a0cb4906d02549b538669ad9b2"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼女仆装/tripo_convert_4670db99-398a-42ed-b59e-2af0ca51d6a5.fbm/tripo_normal_31798334-4a43-4387-b943-44ddf2b0011c.jpg",
+      "bytes": 751824,
+      "sha256": "df591f2c649b6c2c2a7b9dcda2e24b6686009d216e794c7e730bf7fb1fb0eeaa"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼女仆装/tripo_convert_4670db99-398a-42ed-b59e-2af0ca51d6a5.fbm/tripo_rgb_39a968d4-e78f-49d5-99f6-332229993458.jpg",
+      "bytes": 9701861,
+      "sha256": "1439666373ca14bc1545e416d139f0f91f647bf43fb36ca5006238fbb4b9e79a"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼女仆装/tripo_convert_4670db99-398a-42ed-b59e-2af0ca51d6a5.fbm/女仆装3d模型_metallic.JPEG",
+      "bytes": 1700441,
+      "sha256": "ca592fb676984e8b39e8aea47b769d45299729be575f75bbf81909a7aeee1c23"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼女仆装/tripo_convert_4670db99-398a-42ed-b59e-2af0ca51d6a5.fbm/女仆装3d模型_roughness.JPEG",
+      "bytes": 1761683,
+      "sha256": "5aa4c53629cc56676f0d9d5742121eb9f6f2c429663741abb01989227afdd0ec"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼女仆装/tripo_convert_4670db99-398a-42ed-b59e-2af0ca51d6a5.fbx",
+      "bytes": 1584924,
+      "sha256": "b70e0a763c2ad89b3e7b786b0a4732941972ae167490f0c903faab7bf4819d5b"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼女仆装.zip",
+      "bytes": 15280777,
+      "sha256": "b75dfc02ffcbd487992cdc2582bc3b42039154a750bac593204eed559ab8c46d"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼素体/tripo_convert_534d287c-f2ef-4d9e-ab1c-4964d433a5c1.fbm/tripo_normal_81055e73-8682-4764-84e8-9074e2554a92.jpg",
+      "bytes": 614284,
+      "sha256": "d7106da898d4de22241cbc7c62de86db013fbd64b32a25b4dee5139bd2b05c8d"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼素体/tripo_convert_534d287c-f2ef-4d9e-ab1c-4964d433a5c1.fbm/tripo_rgb_6e7d248c-977b-43fd-a01b-5f3fab8a3351.jpg",
+      "bytes": 8013204,
+      "sha256": "7a1c53ff5a7f31f8603f60ed96b7f05634f60393edd5caaac628ece2a56a6d9a"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼素体/tripo_convert_534d287c-f2ef-4d9e-ab1c-4964d433a5c1.fbm/蓝发角色3d模型_metallic.JPEG",
+      "bytes": 1569459,
+      "sha256": "2c2bd1503b4904ee8333e055ec443988f4a9674bb29db6df3b361a71979e9733"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼素体/tripo_convert_534d287c-f2ef-4d9e-ab1c-4964d433a5c1.fbm/蓝发角色3d模型_roughness.JPEG",
+      "bytes": 1545614,
+      "sha256": "be4eb0ef88460ac3f957913d1fad1cfb2ac3f7d7989e787b7671d33b9ecde435"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼素体/tripo_convert_534d287c-f2ef-4d9e-ab1c-4964d433a5c1.fbx",
+      "bytes": 1510508,
+      "sha256": "78bdc78d0605e994f742b669622786c29d3030f10e5650bd6119673717f6ace4"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼素体.zip",
+      "bytes": 13031244,
+      "sha256": "9e964f889dc9a89daae2dc7356e9fdaac8253e62167ea4fc54eb92132e4ac890"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼部件/tripo_convert_91896ad4-5c64-45f6-a0f9-8e61e124fac4.fbm/tripo_normal_24ce44a8-c85c-4b83-88f1-d1fd6c3360b5.jpg",
+      "bytes": 565121,
+      "sha256": "c9c1840f23e35d51e4fcef0183c50a269104aa70546bfd65b53f9adba2d5e97c"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼部件/tripo_convert_91896ad4-5c64-45f6-a0f9-8e61e124fac4.fbm/tripo_rgb_5d7e5722-7f70-40ed-ac83-d6d08d911f80.jpg",
+      "bytes": 8706636,
+      "sha256": "a9ce60a4eb086c127a1a444ea304d09f6ede439ee9413fd4073faa6e33b52283"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼部件/tripo_convert_91896ad4-5c64-45f6-a0f9-8e61e124fac4.fbm/美人鱼尾3d模型_metallic.JPEG",
+      "bytes": 1099743,
+      "sha256": "2d8331dea9aecb0afa5c1be1ff5d229388e9386873737dd7624a5ee21f1efcfd"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼部件/tripo_convert_91896ad4-5c64-45f6-a0f9-8e61e124fac4.fbm/美人鱼尾3d模型_roughness.JPEG",
+      "bytes": 1093698,
+      "sha256": "72deb1a6323ef142f721d8cda4c09655ad5d51b67bf17765a3f01d662c80dcb8"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼部件/tripo_convert_91896ad4-5c64-45f6-a0f9-8e61e124fac4.fbx",
+      "bytes": 1453436,
+      "sha256": "7a89ab0c504557ed25b460459680ce179ef9f2501bca0204e1fe41840247b768"
+    },
+    {
+      "path": "大肥鱼第二版/生成模型/大肥鱼部件.zip",
+      "bytes": 12669854,
+      "sha256": "5a4fb59895c25cc6b9a398bd506b2d06100a1d8b769162ab976a91a7072fd388"
+    },
+    {
+      "path": "大肥鱼第二版/装配/assemble_acc_f003_report.json",
+      "bytes": 1419,
+      "sha256": "0f6df359f7b202e70b77788be26d6a2f23bb2dce6ab8ae7b4dd4226dbadc58bf"
+    },
+    {
+      "path": "大肥鱼第二版/装配/dynamics_verification_p001.json",
+      "bytes": 1197,
+      "sha256": "f58a2f4fe7baa546d9ebe08620fe30df8940d3c4551f8acea884673ed212f928"
+    },
+    {
+      "path": "大肥鱼第二版/装配/dynamics_verification_p002.json",
+      "bytes": 1203,
+      "sha256": "57f291620e543a11fcd0d8907a114beea1fdc17f02d4fc8f6db141d3df05ded5"
+    },
+    {
+      "path": "大肥鱼第二版/装配/FISH2_assembly_f001.blend",
+      "bytes": 3334460,
+      "sha256": "a64ba98ec800b7e7c3d84561a6e4b6da5759124f4d37d018b7598f3a05543d08"
+    },
+    {
+      "path": "大肥鱼第二版/装配/FISH2_assembly_f002.blend",
+      "bytes": 3337837,
+      "sha256": "7cc47eacb9669f2c460facd4396c84a9857fa3225863ad54c6d5192cefaea722"
+    },
+    {
+      "path": "大肥鱼第二版/装配/FISH2_assembly_f003.blend",
+      "bytes": 4896892,
+      "sha256": "da6ac41e002f256b14f8be02cd0b936136039a2fd03b1b3b49a368a6e0342a76"
+    },
+    {
+      "path": "大肥鱼第二版/装配/FISH2_assembly_f004.blend",
+      "bytes": 4897042,
+      "sha256": "7c717e382c3f15483237c138e1f785298533487e224aa44a9e9599e2f7d30f58"
+    },
+    {
+      "path": "大肥鱼第二版/装配/FISH2_body_f001.blend",
+      "bytes": 1691228,
+      "sha256": "1ffaa6e270639d5dd82958a81ef7f7b864ee4f816c8ea99901a0d9fb2788ef2c"
+    },
+    {
+      "path": "大肥鱼第二版/装配/FISH2_body_f002.blend",
+      "bytes": 1710619,
+      "sha256": "d977abdaeb79f22bace6b5f80e0970d2d5dbe2c2a9cc7360fe56f8d466f6443b"
+    },
+    {
+      "path": "大肥鱼第二版/装配/FISH2_outfit_f001.blend",
+      "bytes": 1695490,
+      "sha256": "2bc1f0082d251a29194120550d5673dca6953353cc3769ef4f2ad857b669fe9d"
+    },
+    {
+      "path": "大肥鱼第二版/装配/FISH2_phys_p001.blend",
+      "bytes": 13253197,
+      "sha256": "a9c8b5e10826d0f5264033e0c4fd3d1cd9aa8925cc13c878fd731918b98144a8"
+    },
+    {
+      "path": "大肥鱼第二版/装配/FISH2_phys_p002.blend",
+      "bytes": 13268095,
+      "sha256": "c77527b6131535962517732bd938054958b434d9bb93b365e7abaa765a7157a1"
+    },
+    {
+      "path": "大肥鱼第二版/装配/FISH2_rig_r001.blend",
+      "bytes": 8820536,
+      "sha256": "8fd42d65a280f02d39655d4e023c057b3d47cce35a39c8aaf078fda19bafea5b"
+    },
+    {
+      "path": "大肥鱼第二版/装配/FISH2_rig_r002.blend",
+      "bytes": 8805033,
+      "sha256": "435504ef56914923e7104e430da3ed2e1be576dad093a29e3e8ad37456300262"
+    },
+    {
+      "path": "大肥鱼第二版/装配/FISH2_toon_t001.blend",
+      "bytes": 21883980,
+      "sha256": "8717ed1da2bcfd3381b26f134477abc69f5f9125dd795c672206780b7e4e400b"
+    },
+    {
+      "path": "大肥鱼第二版/装配/FISH2_toon_t002.blend",
+      "bytes": 21896379,
+      "sha256": "b9b4a19fe9285727b86ae3c4a667c1c83a87abc80939305a307645a300112fb3"
+    },
+    {
+      "path": "大肥鱼第二版/装配/fix_assembly_f001.py",
+      "bytes": 13870,
+      "sha256": "69fb42cd879a182a6d523fc6af1d1cd72e88bb7a80eac5c2080472c25223fe1c"
+    },
+    {
+      "path": "大肥鱼第二版/装配/fix_assembly_f001_report.json",
+      "bytes": 1554,
+      "sha256": "7ac9fa2286670425ee5ed0198b3fa42ee7df731b2f6e0f66fea3f921e36a101a"
+    },
+    {
+      "path": "大肥鱼第二版/装配/fix_body_f001.py",
+      "bytes": 8467,
+      "sha256": "a1eebbc869a311bf296ced0c6f0283ec6a88fc83e22543dade1e8e93da4d1ff2"
+    },
+    {
+      "path": "大肥鱼第二版/装配/fix_f004.py",
+      "bytes": 14274,
+      "sha256": "dfbd2ac2297304ed5f6ced09d6c3c68b7344bce2f5880c2929b8a5b1332ee109"
+    },
+    {
+      "path": "大肥鱼第二版/装配/fix_f004_report.json",
+      "bytes": 1003,
+      "sha256": "b6b0f268dcaa7ef9dc10a940ef5386a8a14203f9854172bdf07545717f2417b0"
+    },
+    {
+      "path": "大肥鱼第二版/装配/fix_hair_skirt.py",
+      "bytes": 4617,
+      "sha256": "3252979de935ee33c3c43f04cfaaf6c69f0713a8c8aa83f4accf7570eb6b2bd8"
+    },
+    {
+      "path": "大肥鱼第二版/装配/fix_hair_skirt_f002_report.json",
+      "bytes": 142,
+      "sha256": "4b69a63a89d9d2c69781f3e7903a8051a60106376379d27b4b5962b8491c976b"
+    },
+    {
+      "path": "大肥鱼第二版/装配/physics_bake.py",
+      "bytes": 7683,
+      "sha256": "a09dcfb85194d387cc9254f86ee9ae2f588cefa60b99b8137b64cd78f6f0c34c"
+    },
+    {
+      "path": "大肥鱼第二版/装配/qa_assembly_f003.json",
+      "bytes": 1145,
+      "sha256": "86fc0c5e1969751c0018b0bdbe140aae567eeb204e512eadac76cf04b519ffc0"
+    },
+    {
+      "path": "大肥鱼第二版/装配/rig_build.py",
+      "bytes": 23395,
+      "sha256": "196f9f3129479bc5cfcc5b9de2445e451eba20e7627842e2779610094deb1412"
+    },
+    {
+      "path": "大肥鱼第二版/装配/rig_r001_report.json",
+      "bytes": 1917,
+      "sha256": "8a787bf3b5a52ecb30fd286ac7dc6a9c697312c4b1041d80996a49e535b90158"
+    },
+    {
+      "path": "大肥鱼第二版/装配/rig_r002_report.json",
+      "bytes": 1917,
+      "sha256": "8a787bf3b5a52ecb30fd286ac7dc6a9c697312c4b1041d80996a49e535b90158"
+    },
+    {
+      "path": "大肥鱼第二版/装配/tex/FISH2_body_tex_f004.png",
+      "bytes": 48227441,
+      "sha256": "71cb0cf3de83f80341322fbb79fea3a82aa4e5e5f9abd51ec70bb11b213d0e03"
+    },
+    {
+      "path": "大肥鱼第二版/装配/toon_apply.py",
+      "bytes": 5878,
+      "sha256": "e25d686516eeac802425c46867494b62f15333e946cf283911041842bc1b26aa"
+    },
+    {
+      "path": "大肥鱼第二版/装配/toon_t001_report.json",
+      "bytes": 397,
+      "sha256": "9530dae38a7bdb1097fb99edcddfce341b6a531c4b051b851014d70c5b0a3dbb"
+    },
+    {
+      "path": "大肥鱼第二版/装配/toon_t002_report.json",
+      "bytes": 397,
+      "sha256": "9530dae38a7bdb1097fb99edcddfce341b6a531c4b051b851014d70c5b0a3dbb"
+    },
+    {
+      "path": "大肥鱼第二版/装配/修复_f004_手袖鱼尾特写.jpg",
+      "bytes": 190395,
+      "sha256": "b46382d2a0cfe4243d8071661be25e28c3d9ec2ee6e00644d3660be96f3af185"
+    },
+    {
+      "path": "大肥鱼第二版/装配/修复_f004_眼旁发丝前后对比.jpg",
+      "bytes": 270062,
+      "sha256": "8c00d0d9ca1d0303e662fe23db8815a71ad4a437a60f8c74e5dd9de2a9246d40"
+    },
+    {
+      "path": "大肥鱼第二版/装配/修复_f004_袖口鱼尾全身验收.jpg",
+      "bytes": 157909,
+      "sha256": "abac3bb9807607ec1e6acd22f07e227f4f2744a3d6883aafa89bcd70a269eb9c"
+    },
+    {
+      "path": "大肥鱼第二版/装配/卡通渲染_t001_验收.jpg",
+      "bytes": 168869,
+      "sha256": "15a3d29cdbf8c6eb567e7914d63f0de5d692158b97931adefae52ff010106bfb"
+    },
+    {
+      "path": "大肥鱼第二版/装配/素体修复_f001_前后对比.jpg",
+      "bytes": 210446,
+      "sha256": "8c78c40c2fbde2bc7ab79fecc1c6760fb02ee950e1eeb8266b734f26649065b3"
+    },
+    {
+      "path": "大肥鱼第二版/装配/绑定_r001_姿势测试验收.jpg",
+      "bytes": 218246,
+      "sha256": "8716241f2a91aaf5e422f33cb8817d443e4596f149248043181782b91a7affe4"
+    },
+    {
+      "path": "大肥鱼第二版/装配/装配_f003_验收.jpg",
+      "bytes": 215152,
+      "sha256": "bf5beeca47b229e29414a0573ed2da07849766b199c1021c29fc2f3bace303fe"
+    },
+    {
+      "path": "大肥鱼第二版/装配/装配修复_f002_验收.jpg",
+      "bytes": 422975,
+      "sha256": "3e1a80c447aa53fe0828f0d2c56749b4b664e68cb2dc589c351ccb16556d5d50"
+    },
+    {
+      "path": "大肥鱼第二版/装配/裙布料代理_p001_验收.jpg",
+      "bytes": 186874,
+      "sha256": "50fd6c384fcbbbf8dfed1af8567466bcc411923f54e146cc49be14b3f67ff9e2"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/references/01-contract-and-input-audit.md",
+      "bytes": 2824,
+      "sha256": "4621f2a2298565b912096a25df60109c5a4340f4c2f74a648c5b451cdba94b75"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/references/02-image-split-and-tripo.md",
+      "bytes": 4292,
+      "sha256": "ebcaf1cee5cfba6cfc8a1b9cdd4c0f10d8b0433bf0a602ddafaa7e84e8746b53"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/references/03-assembly-and-fit.md",
+      "bytes": 5657,
+      "sha256": "1f969dae8bc414f4ef35cfd4093bd75dbcc6b53162380bcff5eba0351a665cd5"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/references/04-rig-pose-and-motion.md",
+      "bytes": 3172,
+      "sha256": "9393595fd6775626fdd55a7645895a869c6ed78386190bde03e517c9f5bd0cb4"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/references/05-physics-skirt-hair-tail.md",
+      "bytes": 6139,
+      "sha256": "c937f5dfe6ba265de3e035be9ad03b5b3407f113721e37dbfbeb2bfcfdfeb4f4"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/references/06-toon-render-and-paperzhu.md",
+      "bytes": 3936,
+      "sha256": "e620f64715bc62a4b677f4d655d15932075422361a74c0093def5ed5ebf1978f"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/references/07-qa-matrix.md",
+      "bytes": 3595,
+      "sha256": "4fe4742bbb07c508241aa924829d6705d831d92ec1c8f6b65e80c2661239690d"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/references/08-export-and-delivery.md",
+      "bytes": 2218,
+      "sha256": "3fcf97957f53c8287e3effdc9ada54c843dd2d9200723767336d5a5d7d2d8258"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/references/09-automation-and-pitfalls.md",
+      "bytes": 3514,
+      "sha256": "5d48e0b7900ae503e0ac8abdd0c6e794944e0a2cb7aa30b86ee702f70c7c2547"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/references/10-references.md",
+      "bytes": 5908,
+      "sha256": "3c72e409e078a76999c9b45b8affedd3bfe3b2321891f9ba7f542510c960322e"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/scripts/compare_audit.py",
+      "bytes": 707,
+      "sha256": "e4303fce433820e48b502df3c6ee517f9eb160a4144cb63688615e235cbcec6e"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/scripts/mesh_audit.py",
+      "bytes": 3570,
+      "sha256": "09b89a4c5d28c84d898fbb4444d1ba64b376824da0f895051fe33e4d7a01afe1"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/scripts/motion_metrics.py",
+      "bytes": 4074,
+      "sha256": "e03d182cf316079cd5e2016422268bb903020ef569604535c1340a4358e34f6f"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/scripts/multiview_render.py",
+      "bytes": 4225,
+      "sha256": "8eef9c72c6206d78df605d4eec9ca8e5dc7ab584274ba4da15050e30b8f36a03"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/SKILL.md",
+      "bytes": 9737,
+      "sha256": "6e7a2c11ea0095ed0a895f6aac0464430663a21fd58dace887f9e68da01d4a43"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/templates/delivery_README_template.md",
+      "bytes": 1160,
+      "sha256": "70af64762c8ca5b8d555ffef1c07abd76be1b0ccb7ee70fd2f345e60c81e88fa"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/templates/run_manifest_template.json",
+      "bytes": 945,
+      "sha256": "7aff9a2e85841076548534252878ea26efea747b911836506bd509bbbb4286ad"
+    },
+    {
+      "path": "建模SKILLS/anime-character-pipeline/templates/stage_prompts.md",
+      "bytes": 2595,
+      "sha256": "76b7ca3d0c6f6778de01075840d2949555e11a49a738f9a38b75e0d9efdf11a7"
+    },
+    {
+      "path": "建模SKILLS/README.md",
+      "bytes": 3659,
+      "sha256": "7afc58a56a9dd517978266cb1d3d39521808ae8866edf49d7338c453bf5e6c4b"
+    },
+    {
+      "path": "建模SKILLS/二次元角色建模全流程经验.md",
+      "bytes": 24475,
+      "sha256": "fd54274bc211d555410127d2480178d923184dc80ec40ea8c09874f4103a5244"
+    },
+    {
+      "path": "建模SKILLS/参考文档/AI辅助角色建模_绑定_物理与验收通用手册.md",
+      "bytes": 60134,
+      "sha256": "254821539461a510e4956156453ea5f94f03f48677f61dfaff089353ec76bc82"
+    },
+    {
+      "path": "建模SKILLS/参考文档/大肥鱼第二版_GPT拆图提示词.md",
+      "bytes": 13663,
+      "sha256": "71ce047b812d6e896a18a68690811f9bee9605684cad477e7239553cff550211"
+    },
+    {
+      "path": "外部参考/OC第五版/OC5_anime_toon_v018.blend",
+      "bytes": 31824014,
+      "sha256": "2d33e3a4b40d3af5a3affbe79eea1d5cd4a98b40d8274a36980473c78b37693c"
+    }
+  ],
+  "excluded_blender_backups": [
+    "大肥鱼第二版/装配/FISH2_assembly_f003.blend1",
+    "大肥鱼第二版/装配/FISH2_assembly_f004.blend1",
+    "大肥鱼第二版/装配/FISH2_phys_p001.blend1",
+    "大肥鱼第二版/装配/FISH2_phys_p002.blend1",
+    "大肥鱼第二版/装配/FISH2_rig_r001.blend1",
+    "大肥鱼第二版/装配/FISH2_rig_r002.blend1",
+    "大肥鱼第二版/装配/FISH2_toon_t001.blend1",
+    "大肥鱼第二版/装配/FISH2_toon_t002.blend1"
+  ]
+}

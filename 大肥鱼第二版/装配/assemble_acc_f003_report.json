@@ -1,0 +1,91 @@
+{
+ "bow_fill": {
+  "bow_side": 5,
+  "bow_back": 2
+ },
+ "tail_verts": 5596,
+ "shoe": {
+  "len": 0.296,
+  "width": 0.111,
+  "height": 0.169,
+  "buckle_y": 0.023,
+  "is_side": "L",
+  "last_pitch": 0.08,
+  "insole_heel": [
+   0.059,
+   0.005,
+   0.063
+  ],
+  "insole_ball": [
+   0.207,
+   0.005,
+   0.023
+  ]
+ },
+ "body_shoe_islands_removed": [
+  748,
+  747
+ ],
+ "pose": {
+  "foot_len": 0.172,
+  "shoe_scale": 0.6466,
+  "heel_pitch_deg": 15.16,
+  "lift_m": 0.0259
+ },
+ "skin_clamped_in_shoes": 135,
+ "ahoge": {
+  "islands": 1,
+  "verts": 91,
+  "tip": 1.702,
+  "skull_top": 1.646
+ },
+ "headband": {
+  "scale": 1.12,
+  "dx": -0.03,
+  "width_m": 0.299,
+  "mean_side_gap_mm": -6.1,
+  "min_side_gap_mm": -13.4,
+  "levels": 5,
+  "z_ends": 1.438,
+  "skull_top": 1.646
+ },
+ "bow_side": {
+  "scale": 0.496,
+  "width_m": 0.07,
+  "offset_mm": 44.0,
+  "centre": [
+   -0.037,
+   0.14,
+   1.571
+  ]
+ },
+ "bow_back": {
+  "scale": 0.563,
+  "width_m": 0.08,
+  "offset_mm": 24.0,
+  "centre": [
+   -0.115,
+   0.0,
+   1.486
+  ]
+ },
+ "tail": {
+  "scale": 0.974,
+  "pitch_deg": 21.904525006285184,
+  "pen_samples_at_best": -1,
+  "length_m": 0.516,
+  "fluke_width_m": 0.291,
+  "push_max_mm": 65.1,
+  "attach": [
+   -0.018,
+   0.0,
+   1.056
+  ]
+ },
+ "hair_over_tail": {
+  "verts_inside": 95,
+  "max_mm": 28.7
+ },
+ "height_total": 1.702,
+ "body_top": 1.702
+}

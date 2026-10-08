@@ -1,0 +1,32 @@
+{
+  "copied_files": 99,
+  "copied_bytes": 264402477,
+  "excluded_backup_count": 8,
+  "copy_and_syntax_errors": [],
+  "limited_secret_pattern_hits": [],
+  "absolute_path_text_files": [
+    "大肥鱼第二版/装配/fix_assembly_f001.py",
+    "大肥鱼第二版/装配/fix_body_f001.py",
+    "大肥鱼第二版/装配/fix_f004.py",
+    "大肥鱼第二版/装配/fix_hair_skirt.py",
+    "大肥鱼第二版/装配/physics_bake.py",
+    "大肥鱼第二版/装配/rig_build.py",
+    "大肥鱼第二版/装配/toon_apply.py"
+  ],
+  "limitations": [
+    "No Blender execution or portability validation",
+    "No binary metadata/embedded-script secret inspection",
+    "Limited token-pattern scan is not a complete security review"
+  ],
+  "publication_license": "pending maintainer decision",
+  "git_commit_created": false,
+  "pushed": false,
+  "source_files_verified": 99,
+  "oc5_reference_file": "外部参考/OC第五版/OC5_anime_toon_v018.blend",
+  "oc5_bytes": 31824014,
+  "oc5_sha256": "2d33e3a4b40d3af5a3affbe79eea1d5cd4a98b40d8274a36980473c78b37693c",
+  "license_files": [
+    "LICENSE-MIT",
+    "LICENSE-CC-BY-NC-SA-4.0"
+  ]
+}

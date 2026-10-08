@@ -1,0 +1,58 @@
+{
+ "eye_band": [
+  1.392,
+  1.509
+ ],
+ "ref_from_side": 922,
+ "hairtex": {
+  "bad_verts": 882,
+  "faces": 1288,
+  "pixels": 417438
+ },
+ "sleeve": {
+  "L": {
+   "islands": 21,
+   "cuffs": 7,
+   "tube_verts": 2344,
+   "cuff_verts": 1625,
+   "shift": 0.0919,
+   "cuff_scale": {
+    "19868": 1.24,
+    "20432": 1.0,
+    "20556": 1.0,
+    "20654": 1.019,
+    "20834": 1.178,
+    "20923": 1.5,
+    "25796": 1.082
+   },
+   "tube_pushed": 99,
+   "max_push": 0.0202
+  },
+  "R": {
+   "islands": 25,
+   "cuffs": 7,
+   "tube_verts": 2546,
+   "cuff_verts": 1623,
+   "shift": 0.0879,
+   "cuff_scale": {
+    "6276": 1.026,
+    "6330": 1.0,
+    "6473": 1.0,
+    "6841": 1.224,
+    "6943": 1.5,
+    "7113": 1.193,
+    "8146": 1.096
+   },
+   "tube_pushed": 100,
+   "max_push": 0.0197
+  }
+ },
+ "tailhair_raw_max": 0.1097,
+ "tailhair": {
+  "max_shift": 0.0927,
+  "verts_shifted": 684,
+  "hair_inside_tail": 3,
+  "columns_tail_outside_hair": 62,
+  "columns": 117
+ }
+}

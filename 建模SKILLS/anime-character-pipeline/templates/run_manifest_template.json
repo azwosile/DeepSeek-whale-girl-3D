@@ -1,0 +1,18 @@
+{
+  "character": "<角色名>",
+  "stage": "f|r|p|t",
+  "version": "<如 f004>",
+  "date": "<YYYY-MM-DD>",
+  "blender": "5.2.2 LTS",
+  "inputs": {"<名称>": {"path": "<路径>", "sha256": "<哈希>"}},
+  "conventions": {"unit": "m", "up": "+Z", "front": "+X", "character_left": "+Y", "height_m": 1.62, "heads": 7},
+  "locked": ["脸部几何", "UV", "原贴图", "<已验收饰品位置>"],
+  "user_requests": ["<逐条原话>"],
+  "changes": [{"what": "<改了什么>", "why": "<对应哪条意见>", "params": {}}],
+  "rejected_routes": [{"what": "<做法>", "reason": "<数据或图>"}],
+  "metrics": {"<指标>": {"before": null, "after": null, "threshold": null}},
+  "preservation": {"audit_before": "<json>", "audit_after": "<json>", "identical_fields": ["topo", "uv", "co"]},
+  "outputs": {"<文件>": "<sha256>"},
+  "verified_scope": "<对象 / 动作 / 帧范围 / 采样>",
+  "not_verified": ["<亚帧>", "<自碰撞>", "<引擎>"]
+}

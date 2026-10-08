@@ -1,0 +1,19 @@
+# Blender recovery and temporary output
+*.blend[0-9]*
+*.blend@
+__pycache__/
+*.py[cod]
+.cache/
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+# Secrets and machine-specific configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+.vscode/
+.idea/

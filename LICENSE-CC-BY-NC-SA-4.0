@@ -1,0 +1,19 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+本仓库中属于项目作者并明确纳入本许可范围的角色图像、模型、贴图、Blender 工程、参考图和项目文档，适用 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International（CC BY-NC-SA 4.0）。
+
+完整法律文本：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans
+许可摘要：https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans
+
+使用这些内容时必须：
+
+1. BY：保留作者与来源说明，附上本仓库链接和本许可证链接，并标明是否作过修改。
+2. NC：仅限非商业使用。商业使用前请取得权利人的单独书面许可。
+3. SA：改编、修改或基于这些内容创作的作品，须以相同许可或与其兼容的许可发布。
+
+重要范围说明：
+
+- 本文件不授予第三方输入图、角色形象、AI 服务输出、插件、Blender、Tripo 或其他外部材料的权利。
+- 第三方素材仍受其原作者、服务条款或其他适用许可约束；若某个文件不能按 CC BY-NC-SA 4.0 分发，应以该文件的专门许可或排除说明为准。
+- 代码、脚本和可独立识别的软件程序部分适用仓库根目录的 LICENSE-MIT，而不是本文件。
+- 角色形象来源与致谢见 `docs/LICENSING.md`。
