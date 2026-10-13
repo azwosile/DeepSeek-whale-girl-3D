@@ -1,0 +1,28 @@
+{
+  "status": "av_mux_and_full_decode_passed",
+  "path": "video/locker-room-r033-1080p-with-audio.mp4",
+  "frames": 2483,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "audio": true,
+  "audio_source": "audio/1f68eda17d5d1fb2-火花VS花火_更衣室大战_音频.mp4",
+  "audio_alignment": "t=0; trim/pad tail to original video length",
+  "audio_source_sha256": "1f68eda17d5d1fb2de6826274bc25368e8a3284461852f3cca00d391c51838a6",
+  "video_stream_sha256": "SHA256=e84d17019b2774b99d79671d49188ee5c919200fc77124eba6d4302475bb4b1d",
+  "video_bitstream_preserved": true,
+  "bytes": 80525078,
+  "sha256": "b5dc74f8abc18509a60d944fb7d8ba750a96a0b7a9fe1713dd3aa5f8c6245b0e",
+  "decode_exit_code": 0,
+  "decoded_frames": 2483,
+  "visual_review": {
+    "sampled_visual_review_completed": true,
+    "visual_review_scope": "83 samples at about1s intervals plus previous native mouth/contact/action continuity renders; not every-frame mesh collision certification",
+    "minor_intersections_allowed": true,
+    "severe_intersection_certificate": false,
+    "mouth_method": "Animated native-face cel shading; no fully modeled oral cavity",
+    "reviewed_copy_sha256": "1f940402d33720ad4c0fda27b37b6a66c076e140575bb73bd53361e3044c1299",
+    "same_compressed_video_stream_sha256": "SHA256=e84d17019b2774b99d79671d49188ee5c919200fc77124eba6d4302475bb4b1d",
+    "note": "The reviewed delivery copy has a different container hash; both copies preserve the same compressed video packet stream."
+  }
+}

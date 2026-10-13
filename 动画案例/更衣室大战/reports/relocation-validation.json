@@ -1,0 +1,133 @@
+{
+  "status": "package_dependency_validation_passed",
+  "all_manifest_hashes_passed": true,
+  "outside_package_dependencies": [],
+  "relative_dependencies": [
+    {
+      "label": "FISH2_body/r024_ValidatedStrainCache",
+      "path": "cache/149103e80984b663-floor_1.pc2"
+    },
+    {
+      "label": "FISH2_body/r033 温和接触姿态重建缓存",
+      "path": "cache/e1f62ee201b676cd-FISH2_body.pc2"
+    },
+    {
+      "label": "FISH2_outfit/r024_ValidatedStrainCache",
+      "path": "cache/deabdde1c671fe0e-floor_2.pc2"
+    },
+    {
+      "label": "FISH2_outfit/r033 温和接触姿态重建缓存",
+      "path": "cache/e555885cc56d9298-FISH2_outfit.pc2"
+    },
+    {
+      "label": "FISH2_skirt_proxy/布料缓存_更衣室",
+      "path": "cache/6e6ca9b38e51f367-FISH2_skirt_proxy.pc2"
+    },
+    {
+      "label": "GEO-Claude_body/r024_ValidatedStrainCache",
+      "path": "cache/c341c3e871421788-floor_0.pc2"
+    },
+    {
+      "label": "GEO-Claude_body/r031_SubframeCorrection",
+      "path": "cache/935f3b010911aee4-GEO-Claude_body_half.pc2"
+    },
+    {
+      "label": "GEO-Claude_body/r033 温和接触姿态重建缓存",
+      "path": "cache/47ced7f7db409379-GEO-Claude_body.pc2"
+    },
+    {
+      "label": "GEO-Claude_衣_f002_连续上衣与袖子/r024_ValidatedStrainCache",
+      "path": "cache/9db8beedf3ece18d-floor_3.pc2"
+    },
+    {
+      "label": "GEO-Claude_衣_f002_连续上衣与袖子/r033 温和接触姿态重建缓存",
+      "path": "cache/44a1cfdf81a49c2c-GEO-Claude_衣_f002_连续上衣与袖子.pc2"
+    },
+    {
+      "label": "GEO-Claude_裙子布料代理_p001/布料缓存_更衣室",
+      "path": "cache/af3581dd92ccfd1c-GEO-Claude_裙子布料代理_p001.pc2"
+    },
+    {
+      "label": "r029_Claude_Neck/r031_SubframeCorrection",
+      "path": "cache/d2d9df238dd7ba0f-r029_Claude_Neck_half.pc2"
+    },
+    {
+      "label": "r029_Claude_Neck/r033 温和接触姿态重建缓存",
+      "path": "cache/6b7c37c82386ec94-r029_Claude_Neck.pc2"
+    },
+    {
+      "label": "火花VS花火 更衣室大战_音频.mp4",
+      "path": "audio/1f68eda17d5d1fb2-火花VS花火_更衣室大战_音频.mp4"
+    }
+  ],
+  "tested_frame_subframes": [
+    [
+      1,
+      0.0
+    ],
+    [
+      700,
+      0.0
+    ],
+    [
+      700,
+      0.5
+    ],
+    [
+      1121,
+      0.0
+    ],
+    [
+      1121,
+      0.5
+    ],
+    [
+      1500,
+      0.0
+    ],
+    [
+      1500,
+      0.5
+    ],
+    [
+      2483,
+      0.0
+    ]
+  ],
+  "driver_errors": [],
+  "scene_frames": [
+    1,
+    2483
+  ],
+  "fps": 30.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "evaluated_cache_meshes": [
+    "FISH2_body",
+    "FISH2_outfit",
+    "FISH2_skirt_proxy",
+    "GEO-Claude_body",
+    "GEO-Claude_衣_f002_连续上衣与袖子",
+    "GEO-Claude_裙子布料代理_p001",
+    "r029_Claude_Neck"
+  ],
+  "original_video_validation": {
+    "voiced_and_silent_master_exist": true,
+    "voiced_full_av_decode_passed": true,
+    "decoded_frames": 2483,
+    "evidence": "reports/av-delivery.json",
+    "note": "Previous full decode evidence matched against the current master hash; this script does not decode MP4s"
+  },
+  "acceptance": "Mild intersections allowed; sampled visual review, not zero-penetration certification",
+  "qa_renders": [],
+  "relocation": {
+    "status": "reopen_in_separate_directory_passed",
+    "method": "A separate-directory copy of the checkpoint/docs/manifests with same-volume hardlinks for PC2 and MP4 dependencies. The relocated checkpoint was reopened and all dependencies resolved inside the relocated root.",
+    "copied_checkpoint": true,
+    "dependency_paths_constrained_to_relocated_root": true,
+    "uses_network_clone": false,
+    "qa_renders": "Six QA images were rendered and visually reviewed from the publication worktree; the separate-directory relocation test checks dependency resolution and selected evaluated frames only."
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "source_checkpoint": "GYS_最终有声交付_r033_v005.blend",
+  "source_checkpoint_sha256": "6074e6bd725bdafd45f22d5c377f18e7863105430b634ac177d15182e11901ad",
+  "blender_version": "5.2.2 LTS",
+  "dependencies": [
+    {
+      "kind": "mesh_cache",
+      "path": "cache/149103e80984b663-floor_1.pc2",
+      "bytes": 727946108,
+      "sha256": "149103e80984b66347303d4dd6ee0c3084be59bb156159c0ce35da1df9a50266",
+      "source_basename": "floor_1.pc2",
+      "references": [
+        "FISH2_body/r024_ValidatedStrainCache"
+      ],
+      "pc2": {
+        "points": 24431,
+        "samples": 2483,
+        "start": 1.0,
+        "step": 1.0,
+        "complete_bytes": true
+      }
+    },
+    {
+      "kind": "mesh_cache",
+      "path": "cache/e1f62ee201b676cd-FISH2_body.pc2",
+      "bytes": 727946108,
+      "sha256": "e1f62ee201b676cd06592edf37ef9acf788839bdbcf3a4ccc45418f4af046b1f",
+      "source_basename": "FISH2_body.pc2",
+      "references": [
+        "FISH2_body/r033 温和接触姿态重建缓存"
+      ],
+      "pc2": {
+        "points": 24431,
+        "samples": 2483,
+        "start": 0.0,
+        "step": 1.0,
+        "complete_bytes": true
+      }
+    },
+    {
+      "kind": "mesh_cache",
+      "path": "cache/deabdde1c671fe0e-floor_2.pc2",
+      "bytes": 771805820,
+      "sha256": "deabdde1c671fe0e78fab1695d0498c4ff3873f77f25e617d53a27c0fc585e5c",
+      "source_basename": "floor_2.pc2",
+      "references": [
+        "FISH2_outfit/r024_ValidatedStrainCache"
+      ],
+      "pc2": {
+        "points": 25903,
+        "samples": 2483,
+        "start": 1.0,
+        "step": 1.0,
+        "complete_bytes": true
+      }
+    },
+    {
+      "kind": "mesh_cache",
+      "path": "cache/e555885cc56d9298-FISH2_outfit.pc2",
+      "bytes": 771805820,
+      "sha256": "e555885cc56d92988710d9b3966e09b6028745716232cba3ccea97c0dcf474fc",
+      "source_basename": "FISH2_outfit.pc2",
+      "references": [
+        "FISH2_outfit/r033 温和接触姿态重建缓存"
+      ],
+      "pc2": {
+        "points": 25903,
+        "samples": 2483,
+        "start": 0.0,
+        "step": 1.0,
+        "complete_bytes": true
+      }
+    },
+    {
+      "kind": "mesh_cache",
+      "path": "cache/6e6ca9b38e51f367-FISH2_skirt_proxy.pc2",
+      "bytes": 22883360,
+      "sha256": "6e6ca9b38e51f3676f215834ad7394d9d81c5f84d2f15a991824868d49cd1e32",
+      "source_basename": "FISH2_skirt_proxy.pc2",
+      "references": [
+        "FISH2_skirt_proxy/布料缓存_更衣室"
+      ],
+      "pc2": {
+        "points": 768,
+        "samples": 2483,
+        "start": 0.0,
+        "step": 1.0,
+        "complete_bytes": true
+      }
+    },
+    {
+      "kind": "mesh_cache",
+      "path": "cache/c341c3e871421788-floor_0.pc2",
+      "bytes": 645649556,
+      "sha256": "c341c3e871421788bd69b6b7914a91715c2018396213e992a879dbb2b5efd898",
+      "source_basename": "floor_0.pc2",
+      "references": [
+        "GEO-Claude_body/r024_ValidatedStrainCache"
+      ],
+      "pc2": {
+        "points": 21669,
+        "samples": 2483,
+        "start": 1.0,
+        "step": 1.0,
+        "complete_bytes": true
+      }
+    },
+    {
+      "kind": "mesh_cache",
+      "path": "cache/935f3b010911aee4-GEO-Claude_body_half.pc2",
+      "bytes": 1291039052,
+      "sha256": "935f3b010911aee43a5405418bccad34de1aa59980e704e06cd9081eb72a0ccd",
+      "source_basename": "GEO-Claude_body_half.pc2",
+      "references": [
+        "GEO-Claude_body/r031_SubframeCorrection"
+      ],
+      "pc2": {
+        "points": 21669,
+        "samples": 4965,
+        "start": 0.0,
+        "step": 0.5,
+        "complete_bytes": true
+      }
+    },
+    {
+      "kind": "mesh_cache",
+      "path": "cache/47ced7f7db409379-GEO-Claude_body.pc2",
+      "bytes": 645649556,
+      "sha256": "47ced7f7db4093798bb34a23be72e12d40e937368905de9148d78214647b3d76",
+      "source_basename": "GEO-Claude_body.pc2",
+      "references": [
+        "GEO-Claude_body/r033 温和接触姿态重建缓存"
+      ],
+      "pc2": {
+        "points": 21669,
+        "samples": 2483,
+        "start": 0.0,
+        "step": 1.0,
+        "complete_bytes": true
+      }
+    },
+    {
+      "kind": "mesh_cache",
+      "path": "cache/9db8beedf3ece18d-floor_3.pc2",
+      "bytes": 44515256,
+      "sha256": "9db8beedf3ece18d991b2850bbd635dd667bd95ecb9db5921fb464292c418357",
+      "source_basename": "floor_3.pc2",
+      "references": [
+        "GEO-Claude_衣_f002_连续上衣与袖子/r024_ValidatedStrainCache"
+      ],
+      "pc2": {
+        "points": 1494,
+        "samples": 2483,
+        "start": 1.0,
+        "step": 1.0,
+        "complete_bytes": true
+      }
+    },
+    {
+      "kind": "mesh_cache",
+      "path": "cache/44a1cfdf81a49c2c-GEO-Claude_衣_f002_连续上衣与袖子.pc2",
+      "bytes": 44515256,
+      "sha256": "44a1cfdf81a49c2cc2e6065c24611fc93271927e9d04e9cd60ee3cdf3999f580",
+      "source_basename": "GEO-Claude_衣_f002_连续上衣与袖子.pc2",
+      "references": [
+        "GEO-Claude_衣_f002_连续上衣与袖子/r033 温和接触姿态重建缓存"
+      ],
+      "pc2": {
+        "points": 1494,
+        "samples": 2483,
+        "start": 0.0,
+        "step": 1.0,
+        "complete_bytes": true
+      }
+    },
+    {
+      "kind": "mesh_cache",
+      "path": "cache/af3581dd92ccfd1c-GEO-Claude_裙子布料代理_p001.pc2",
+      "bytes": 21453152,
+      "sha256": "af3581dd92ccfd1c32474e87bd5dd985d8f54a3c1d97161bd4a6156963cb2ed9",
+      "source_basename": "GEO-Claude_裙子布料代理_p001.pc2",
+      "references": [
+        "GEO-Claude_裙子布料代理_p001/布料缓存_更衣室"
+      ],
+      "pc2": {
+        "points": 720,
+        "samples": 2483,
+        "start": 0.0,
+        "step": 1.0,
+        "complete_bytes": true
+      }
+    },
+    {
+      "kind": "mesh_cache",
+      "path": "cache/d2d9df238dd7ba0f-r029_Claude_Neck_half.pc2",
+      "bytes": 95328032,
+      "sha256": "d2d9df238dd7ba0ffc4593e9b2fa963950affc0edc7ae2fc29a0e5e2a593deba",
+      "source_basename": "r029_Claude_Neck_half.pc2",
+      "references": [
+        "r029_Claude_Neck/r031_SubframeCorrection"
+      ],
+      "pc2": {
+        "points": 1600,
+        "samples": 4965,
+        "start": 0.0,
+        "step": 0.5,
+        "complete_bytes": true
+      }
+    },
+    {
+      "kind": "mesh_cache",
+      "path": "cache/6b7c37c82386ec94-r029_Claude_Neck.pc2",
+      "bytes": 47673632,
+      "sha256": "6b7c37c82386ec946bf8891771dd020a7ac3841a50d97c2ffd67b42d4eb562a5",
+      "source_basename": "r029_Claude_Neck.pc2",
+      "references": [
+        "r029_Claude_Neck/r033 温和接触姿态重建缓存"
+      ],
+      "pc2": {
+        "points": 1600,
+        "samples": 2483,
+        "start": 0.0,
+        "step": 1.0,
+        "complete_bytes": true
+      }
+    },
+    {
+      "kind": "sound",
+      "path": "audio/1f68eda17d5d1fb2-火花VS花火_更衣室大战_音频.mp4",
+      "bytes": 1000907,
+      "sha256": "1f68eda17d5d1fb2de6826274bc25368e8a3284461852f3cca00d391c51838a6",
+      "source_basename": "火花VS花火 更衣室大战_音频.mp4",
+      "references": [
+        "火花VS花火 更衣室大战_音频.mp4"
+      ]
+    },
+    {
+      "kind": "delivered_video",
+      "path": "video/locker-room-r033-1080p-with-audio.mp4",
+      "bytes": 80525078,
+      "sha256": "b5dc74f8abc18509a60d944fb7d8ba750a96a0b7a9fe1713dd3aa5f8c6245b0e",
+      "references": [
+        "with-audio"
+      ]
+    },
+    {
+      "kind": "delivered_video",
+      "path": "video/locker-room-r033-1080p-silent.mp4",
+      "bytes": 78464893,
+      "sha256": "aa941aff98d697de538995091d12cca6f1a0e200bf42f7ecd5d8c0e28532749a",
+      "references": [
+        "silent"
+      ]
+    }
+  ],
+  "frames": [
+    1,
+    2483
+  ],
+  "fps": 30.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "release_checkpoint": {
+    "path": "project/GYS_release_r033.blend",
+    "bytes": 159773658,
+    "sha256": "0f77948f0e5a184a2424201a0ec9701baba532c09630422a4a8d5989b51ff274"
+  },
+  "unique_mesh_cache_count": 13,
+  "mesh_cache_bytes": 5858210708
+}

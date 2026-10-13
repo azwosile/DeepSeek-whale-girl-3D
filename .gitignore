@@ -17,3 +17,11 @@ Thumbs.db
 credentials.json
 .vscode/
 .idea/
+
+# Locker-room case: essential cache/ is versioned through LFS, not ignored.
+动画案例/更衣室大战/renders/
+动画案例/更衣室大战/tools_audio/
+动画案例/更衣室大战/delivery_bridge/
+动画案例/更衣室大战/delivery_images/
+动画案例/更衣室大战/audio_delivery_bridge/
+动画案例/更衣室大战/**/*.b64.txt
